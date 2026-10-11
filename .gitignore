@@ -1,0 +1,6 @@
+# Large/raw datasets
+*.csv
+*.rds
+*.RDS
+*.h5ad
+*.mtx
